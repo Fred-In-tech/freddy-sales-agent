@@ -2,9 +2,9 @@
 
 An autonomous SDR and revenue agent for Freddyville Media Productions — it prospects, qualifies, and drafts; a human sends.
 
-[![Architecture map](banner.png)](https://fred-in-tech.github.io/fvm-system-maps/freddy-sales-agent/)
+[![Architecture map](banner.png)](https://fred-in-tech.github.io/freddy-sales-agent/map/)
 
-*Interactive, pannable version: [open the architecture map](https://fred-in-tech.github.io/fvm-system-maps/freddy-sales-agent/)*
+*Interactive, pannable version: [open the architecture map](https://fred-in-tech.github.io/freddy-sales-agent/map/)*
 
 ## What it is
 
